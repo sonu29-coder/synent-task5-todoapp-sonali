@@ -25,7 +25,7 @@ This project demonstrates DOM manipulation, localStorage usage, and elegant UI d
 ## 📂 Project Structure
 todo-app/
 │── index.html       # Main HTML file
-│── style.css        # Styling (royal theme)
+│── style.css        # Styling 
 │── script.js        # JavaScript logic
 │── README.md        # Project documentation
 
